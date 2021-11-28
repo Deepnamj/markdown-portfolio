@@ -1,3 +1,3 @@
-*Football
-*Chicken Biriyani
-*movies
+* Football
+* Chicken Biriyani
+* movies
